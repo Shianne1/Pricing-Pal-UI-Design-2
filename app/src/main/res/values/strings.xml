@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testing Modifier</string>
+    <string name="clothing">Clothing</string>
+    <string name="jewelry">Jewelry</string>
+    <string name="appliances">Appliances</string>
+    <string name="furniture">Furniture</string>
+    <string name="electronics">Electronics</string>
+    <string name="toys_and_games">Toys &amp; Games</string>
+    <string name="accessories">Accessories</string>
+</resources>
